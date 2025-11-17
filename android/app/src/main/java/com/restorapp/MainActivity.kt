@@ -1,4 +1,4 @@
-package com.restorapp
+package com.restorApp
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
